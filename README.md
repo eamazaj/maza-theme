@@ -23,6 +23,12 @@ Download these four ttf files:
 - [MesloLGS NF Italic.ttf](https://github.com/romkatv/dotfiles-public/raw/master/.local/share/fonts/NerdFonts/MesloLGS%20NF%20Italic.ttf)
 - [MesloLGS NF Bold Italic.ttf](https://github.com/romkatv/dotfiles-public/raw/master/.local/share/fonts/NerdFonts/MesloLGS%20NF%20Bold%20Italic.ttf)
 
+### For VSC Terminal
+
+Edit file setting.json and add:
+
+`"terminal.integrated.fontFamily": "'Meslo LG S for Powerline', 'SourceCodePro+Powerline+Awesome Regular'"`
+
 ### Installation
 
 1. `mkdir $ZSH_CUSTOM/themes` _You can skip this command if the directory exists already_
