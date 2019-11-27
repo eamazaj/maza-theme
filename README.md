@@ -30,6 +30,10 @@ Edit file setting.json and add:
 
 `"terminal.integrated.fontFamily": "'Meslo LG S for Powerline', 'SourceCodePro+Powerline+Awesome Regular'"`
 
+<p align="center">
+  <img src="vscode.png" title="">
+</p>
+
 ### Installation
 
 1. `mkdir $ZSH_CUSTOM/themes` _You can skip this command if the directory exists already_
