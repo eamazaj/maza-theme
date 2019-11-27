@@ -1,10 +1,6 @@
-### Maza
+### Maza Theme
 
-<p align="center">
-    <video width="320" height="240" controls>
-        <source src="video.mov" type="video/mp4">
-    </video>
-</p>
+<video width="320" height="240" controls src="video.mov" type="video/mp4"></video>
 
 Maza is a simplest [oh-my-zsh](https://ohmyz.sh) theme.
 
